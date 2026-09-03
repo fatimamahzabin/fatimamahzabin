@@ -1,4 +1,4 @@
-
+# 👩‍💻 Fatima Mahzabin
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62b04993-3cb7-4360-90ec-2b06e5b857e3" alt="Banner" />
@@ -14,34 +14,27 @@ Full Stack Developer | AI & ML Enthusiast | Cybersecurity Explorer
 
 Hi 👋, I'm **Fatima Mahzabin**.
 
-I'm a passionate developer currently exploring **Full Stack Web Development**.  
+I'm a passionate developer exploring **Full Stack Web Development**.
 I enjoy building clean, responsive, and modern web experiences while continuously improving my skills.
 
-- 🌱 Currently learning **Full Stack Development**
-- 💻 Interested in **Web Development, Artificial Intelligence & Cybersecurity**
-- 🎨 Passionate about **UI/UX and Responsive Design**
-- 🚀 Always learning, building, and exploring new technologies
+I am interested in **Artificial Intelligence, Machine Learning, and Cybersecurity** and always excited to learn new technologies.
+
+### 🚀 Currently Working On
+
+- 🌱 Learning **Full Stack Development**
+- 💻 Improving my skills in **React & Node.js**
+- 🤖 Exploring **AI & Machine Learning**
+- 🔐 Exploring **Cybersecurity and Ethical Hacking**
+- 🧠 Practicing programming and problem solving
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Skills & Technologies
 
-### 👨‍💻 Programming Languages
+<p align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,c,cpp,java,git,github,vscode,notion,arduino,linux" />
 
-### 🌐 Web Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
-
-### ⚙️ Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,arduino" />
 </p>
 
 ---
@@ -49,27 +42,25 @@ I enjoy building clean, responsive, and modern web experiences while continuousl
 ## 📊 GitHub Statistics
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=fatimamahzabin&show_icons=true&theme=tokyonight" />
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimamahzabin&theme=tokyonight" />
+
 </p>
-
----
-
-
----
-
-## 📦 Repository Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatimamahzabin&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatimamahzabin&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimamahzabin&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -91,6 +82,7 @@ I enjoy building clean, responsive, and modern web experiences while continuousl
 </a>
 
 </p>
+
 ---
 
 ✨ *Always learning, building, and exploring new technologies.*
