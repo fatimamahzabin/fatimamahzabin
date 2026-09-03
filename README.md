@@ -70,29 +70,26 @@ I enjoy building clean, responsive, and modern web experiences while continuousl
 </p>
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://github.com/fatimamahzabin" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 
 <a href="https://www.linkedin.com/in/fatimamahzabin/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
 <a href="https://www.instagram.com/nokshi79/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="45" />
 </a>
 
 <a href="https://www.facebook.com/nokshiiii" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=facebook" width="45" />
 </a>
 
 </p>
-
 ---
 
 ✨ *Always learning, building, and exploring new technologies.*
