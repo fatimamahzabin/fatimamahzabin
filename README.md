@@ -14,27 +14,34 @@ Full Stack Developer | AI & ML Enthusiast | Cybersecurity Explorer
 
 Hi 👋, I'm **Fatima Mahzabin**.
 
-I'm a passionate developer exploring **Full Stack Web Development**.
+I'm a passionate developer currently exploring **Full Stack Web Development**.  
 I enjoy building clean, responsive, and modern web experiences while continuously improving my skills.
 
-I am interested in **Artificial Intelligence, Machine Learning, and Cybersecurity** and always excited to explore new technologies.
-
-### 🚀 Currently Working On
-
-- 🌱 Learning **Full Stack Development**
-- 💻 Improving my skills in **React & Node.js**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🔐 Exploring **Cybersecurity and Ethical Hacking**
-- 🧠 Practicing programming and problem solving
+- 🌱 Currently learning **Full Stack Development**
+- 💻 Interested in **Web Development, Artificial Intelligence & Cybersecurity**
+- 🎨 Passionate about **UI/UX and Responsive Design**
+- 🚀 Always learning, building, and exploring new technologies
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technology Stack
 
-<p align="left">
+### 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,c,cpp,java,git,github,vscode,notion,arduino,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
 
+### 🌐 Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,arduino" />
 </p>
 
 ---
@@ -42,31 +49,29 @@ I am interested in **Artificial Intelligence, Machine Learning, and Cybersecurit
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fatimamahzabin&show_icons=true&theme=tokyonight&count_private=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=fatimamahzabin&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimamahzabin&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimamahzabin&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
 
-## 🟩 GitHub Contribution Activity
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/fatimamahzabin/fatimamahzabin/output/github-contribution-grid-snake.svg" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimamahzabin&theme=tokyo-night" />
+---
 
+## 📦 Repository Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatimamahzabin&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatimamahzabin&theme=tokyonight" />
 </p>
 
 ---
@@ -76,19 +81,19 @@ I am interested in **Artificial Intelligence, Machine Learning, and Cybersecurit
 <p align="left">
 
 <a href="https://github.com/fatimamahzabin" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/fatimamahzabin/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/nokshi79/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.facebook.com/nokshiiii" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </p>
