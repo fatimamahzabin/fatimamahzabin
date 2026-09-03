@@ -75,19 +75,19 @@ I enjoy building clean, responsive, and modern web experiences while continuousl
 <p align="left">
 
 <a href="https://github.com/fatimamahzabin" target="_blank">
-<img src="https://cdn.simpleicons.org/github" width="45"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/fatimamahzabin/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.instagram.com/nokshi79/" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge"/>
 </a>
 
 <a href="https://www.facebook.com/nokshiiii" target="_blank">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge"/>
 </a>
 
 </p>
