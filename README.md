@@ -17,13 +17,13 @@ Hi 👋, I'm **Fatima Mahzabin**.
 I'm a passionate developer exploring **Full Stack Web Development**.
 I enjoy building clean, responsive, and modern web experiences while continuously improving my skills.
 
-I am interested in **Artificial Intelligence, Machine Learning, and Cybersecurity** and always excited to learn new technologies.
+I am interested in **Artificial Intelligence, Machine Learning, and Cybersecurity** and always excited to explore new technologies.
 
 ### 🚀 Currently Working On
 
 - 🌱 Learning **Full Stack Development**
 - 💻 Improving my skills in **React & Node.js**
-- 🤖 Exploring **AI & Machine Learning**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
 - 🔐 Exploring **Cybersecurity and Ethical Hacking**
 - 🧠 Practicing programming and problem solving
 
@@ -43,7 +43,7 @@ I am interested in **Artificial Intelligence, Machine Learning, and Cybersecurit
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fatimamahzabin&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=fatimamahzabin&show_icons=true&theme=tokyonight&count_private=true" />
 
 </p>
 
@@ -56,6 +56,16 @@ I am interested in **Artificial Intelligence, Machine Learning, and Cybersecurit
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimamahzabin&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🟩 GitHub Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimamahzabin&theme=tokyo-night" />
 
 </p>
 
