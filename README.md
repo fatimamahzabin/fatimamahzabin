@@ -1,4 +1,4 @@
-# 👩‍💻 Fatima Mahzabin
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62b04993-3cb7-4360-90ec-2b06e5b857e3" alt="Banner" />
